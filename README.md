@@ -1,4 +1,5 @@
-## Hi there 👋
+![Alt text](https://media.giphy.com/media/https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZyMGV1cHZxZGs5bzhpajA4aHk2Z3Y2NjJuenBtZTltaTJyeGJmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4gH9mQjn6OGQg/giphy.gif)
+
 
 <!--
 **SuperrJoey/SuperrJoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
