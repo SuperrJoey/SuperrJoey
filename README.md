@@ -1,5 +1,1 @@
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://th.bing.com/th/id/R.1eb46a6533d684c6c38c94d5997a34f7?rik=3sIw3NHNPsRVcA&riu=http%3a%2f%2fpa1.aminoapps.com%2f7435%2f4adabe2851ebd31d60f7bae89a0ddff8f6b36cd6r1-640-360_00.gif&ehk=21DzJJizdPW6W4vIf42isVOhvLGqw9cFMwt2Bi7cnAs%3d&risl=&pid=ImgRaw&r=0)" width="300"/>
